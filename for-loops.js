@@ -68,4 +68,3 @@ for (var i = 0;  i < prop.length; i++)
 for (bugs in bugs) {
 	console.log(bugs + " = " + prop[i++]);
 }
-
